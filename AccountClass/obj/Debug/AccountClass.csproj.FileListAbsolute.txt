@@ -1,0 +1,6 @@
+c:\users\efuet\documents\visual studio 2015\Projects\AccountClass\AccountClass\bin\Debug\AccountClass.exe.config
+c:\users\efuet\documents\visual studio 2015\Projects\AccountClass\AccountClass\bin\Debug\AccountClass.exe
+c:\users\efuet\documents\visual studio 2015\Projects\AccountClass\AccountClass\bin\Debug\AccountClass.pdb
+c:\users\efuet\documents\visual studio 2015\Projects\AccountClass\AccountClass\obj\Debug\AccountClass.csprojResolveAssemblyReference.cache
+c:\users\efuet\documents\visual studio 2015\Projects\AccountClass\AccountClass\obj\Debug\AccountClass.exe
+c:\users\efuet\documents\visual studio 2015\Projects\AccountClass\AccountClass\obj\Debug\AccountClass.pdb
